@@ -16,6 +16,7 @@ A lightweight C++ tool that scans your Windows system for known **Roblox cheat t
 - ✅ Real-time **progress display** during scan
 - ✅ All findings logged to `CheatScanResults.txt`
 - ✅ Simple access control via key prompt
+- 🛠️ More coming soon
 
 ---
 
