@@ -45,4 +45,21 @@ The current key is: 656432
 === Scan Summary ===
 Total suspicious items found: 5
 
+--
+
+## 🖼️ Preview(s)
+
+![image](https://github.com/user-attachments/assets/6d4583b2-1721-40b0-b36b-3c38ea522a64)
+![image](https://github.com/user-attachments/assets/3403a3eb-6e7f-4fcc-a234-f3be299b5c98)
+![image](https://github.com/user-attachments/assets/6c192bae-5670-47fd-9bbe-88e41fb798c3)
+![image](https://github.com/user-attachments/assets/f4767fcd-7462-4a14-8f4d-85896456facf)
+![image](https://github.com/user-attachments/assets/c465555e-5bc9-4eda-861c-e49ff346c0b9)
+
+
+## Contact me at @inbuloned for any inquiries.
+
+
+
+
+
 
